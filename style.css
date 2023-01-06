@@ -1,0 +1,135 @@
+body {
+  background: url(https://i.pinimg.com/564x/59/9f/26/599f265feb74e383b9f959b7cbdc0e4c.jpg);
+}
+.header__right {
+  background-color: #282828;
+  width: 30%;
+  height: 600px;
+  position: absolute;
+  margin-left: 23%;
+}
+.header__rotate {
+  transform: rotate(270deg);
+  margin-top: 32%;
+  position: absolute;
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin-left: -14%;
+}
+.header__rotate > h2 {
+  font-size: 40px;
+  font-weight: 200;
+}
+.header__right-buttom {
+  position: absolute;
+  bottom: 0%;
+  margin-left: 13%;
+  line-height: 30px;
+}
+.header__left > img {
+  margin-top: 3%;
+  width: 30%;
+  position: absolute;
+}
+.header__left {
+  margin-left: 45%;
+}
+.buttom-list {
+  list-style-type: none;
+}
+
+.buttom-list > a > li {
+  color: white;
+}
+.buttom-list > a > li > img {
+  margin-right: 5px;
+}
+/* about-me */
+.about-me {
+  /* top: 74%; */
+  position: absolute;
+  color: white;
+  width: 19%;
+  margin-left: 56%;
+  margin-top: 33%;
+}
+/* ----------------content------------------- */
+.content {
+  position: absolute;
+  top: 106%;
+  color: wheat;
+  margin-left: 23%;
+  width: 23%;
+}
+.content__right-experience {
+  margin-top: 30%;
+}
+.content__right-list {
+  margin-top: 20%;
+  color: rgb(247, 238, 226);
+}
+.content__right-list1 > h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+.content__right-list > h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+}
+.content__right-list > p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  color: white;
+}
+/* conten left start */
+.content__left {
+  color: white;
+  position: absolute;
+  top: 107%;
+  color: wheat;
+  margin-left: 58%;
+  /* width: 23%; */
+}
+.content_left-skills > ul {
+  list-style-type: none;
+}
+.left-skills-list1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+.left-skills-list2 {
+  color: #878787;
+  margin-top: 56%;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+.left-skills-list {
+  color: #878787;
+  margin-top: 17%;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+.content__left-languages {
+  margin-left: 17%;
+  margin-top: 33%;
+}
+.left-languages-h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+}
+.left-languages-h {
+  margin-top: 37%;
+  color: #878787;
+}
+/* maps */
+.maps {
+  position: absolute;
+  color: white;
+  margin-top: 127%;
+  text-align: center;
+  margin-left: 29%;
+}

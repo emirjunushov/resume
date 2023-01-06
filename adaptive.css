@@ -1,0 +1,270 @@
+@media all and (max-width: 1440px) {
+  .content {
+    top: 85%;
+  }
+  .content__left {
+    top: 85%;
+  }
+  .left-languages-h1 {
+    font-size: 20px;
+  }
+}
+@media all and (max-width: 1264px) {
+  .header__rotate {
+    font-size: 23px;
+  }
+  .maps {
+    margin-top: 139%;
+  }
+  .left-languages-h1 {
+    font-size: 20px;
+  }
+}
+@media all and (max-width: 1167px) {
+  .maps {
+    top: 16%;
+    margin-left: 22%;
+  }
+}
+@media all and (max-width: 1036px) {
+  .maps {
+    top: 24%;
+  }
+}
+@media all and (max-width: 1001px) {
+  .maps {
+    top: 38%;
+  }
+}
+@media all and (max-width: 1001px) {
+  .header__right-buttom {
+    margin-right: 13%;
+    margin-left: 0;
+  }
+}
+@media all and (max-width: 981px) {
+  .header__right-buttom {
+    width: 300px;
+  }
+}
+@media all and (max-width: 969px) {
+  .header__rotate {
+    font-size: 20px;
+  }
+  .header__right {
+    height: 489px;
+  }
+}
+@media all and (max-width: 860px) {
+  .maps {
+    top: 50%;
+    margin-left: 17%;
+  }
+}
+@media all and (max-width: 842px) {
+  .header__rotate > h2 {
+    font-size: 30px;
+  }
+  .header__rotate > h1 {
+    font-size: 34px;
+  }
+  .buttom-list {
+    margin-left: -12%;
+  }
+}
+@media all and (max-width: 828px) {
+  .maps {
+    top: 70%;
+  }
+}
+@media all and (max-width: 836px) {
+  .maps {
+    top: 80%;
+  }
+}
+@media all and (max-width: 792px) {
+  .maps {
+    margin-left: 22%;
+  }
+  iframe {
+    width: 400px;
+  }
+}
+@media all and (max-width: 716px) {
+  .header__rotate > h1 {
+    font-size: 30px;
+  }
+  .header__rotate > h2 {
+    font-size: 17px;
+  }
+  .buttom-list > a > li {
+    font-size: 10px;
+  }
+  .header__right {
+    height: 323px;
+  }
+  .about-me {
+    width: 27%;
+  }
+  .about-me > p {
+    font-size: 11px;
+  }
+  .about-me > h3 {
+    font-size: 14px;
+  }
+  .content__right {
+    margin-top: -138%;
+  }
+  .content__left {
+    top: 52%;
+  }
+  .content__right-list1 > h2 {
+    font-size: 15px;
+  }
+  .content__right-list > h2 {
+    font-size: 14px;
+  }
+  .content__right-list > p {
+    font-size: 13px;
+  }
+  .left-skills-list1 {
+    font-size: 15px;
+  }
+  .left-skills-list2 {
+    font-size: 14px;
+  }
+  .left-skills-list {
+    font-size: 14px;
+  }
+  .left-languages-h1 {
+    font-size: 10px;
+  }
+  .left-languages-h > h3 {
+    font-size: 14px;
+  }
+  .maps {
+    top: 2%;
+  }
+}
+@media all and (max-width: 708px) {
+  .maps {
+    top: 10%;
+  }
+}
+@media all and (max-width: 671px) {
+  .maps {
+    top: 20%;
+  }
+}
+@media all and (max-width: 642px) {
+  iframe {
+    width: 300px;
+    height: 200px;
+  }
+  .maps {
+    margin-left: 28%;
+    top: 30%;
+  }
+  .content__left {
+    top: 57%;
+  }
+  .content__left-languages {
+    margin-left: 25%;
+  }
+}
+@media all and (max-width: 592px) {
+  .maps {
+    top: 55%;
+  }
+  .content_left-skills > ul > li > img {
+    width: 60%;
+  }
+}
+@media all and (max-width: 592px) {
+  .maps {
+    top: 70%;
+    margin-left: 23%;
+  }
+}
+@media all and (max-width: 515px) {
+  .header__rotate > h1 {
+    font-size: 19px;
+  }
+  .header__rotate > h2 {
+    font-size: 10px;
+  }
+  .header__right {
+    height: 243px;
+  }
+  .about-me {
+    width: 53%;
+    margin-left: 23%;
+    margin-top: 47%;
+  }
+}
+@media all and (max-width: 425px) {
+  .about-me {
+    margin-top: 57%;
+  }
+  .header__right {
+    width: 40%;
+  }
+  .content__right {
+    margin-top: -250%;
+  }
+  .content__left {
+    top: 49%;
+  }
+  .content__right-list1 > h2 {
+    font-size: 12px;
+  }
+  .content__right-list > h2 {
+    font-size: 11px;
+  }
+  .content__right-list > p {
+    font-size: 10px;
+  }
+  .left-skills-list1 {
+    font-size: 12px;
+  }
+  .left-skills-list2 {
+    font-size: 11px;
+  }
+  .left-skills-list {
+    font-size: 11px;
+  }
+  .content_left-skills > ul > li > img {
+    width: 46%;
+  }
+  .left-languages-h1 {
+    font-size: 8px;
+  }
+  .left-languages-h > h3 {
+    font-size: 11px;
+  }
+  .maps {
+    top: 42%;
+    margin-left: 15%;
+  }
+  .maps > h3 {
+    font-size: 14px;
+  }
+}
+@media all and (max-width: 375px) {
+  .header__rotate > h1 {
+    font-size: 15px;
+  }
+  .header__right {
+    height: 209px;
+  }
+  .buttom-list > a > li {
+    font-size: 7px;
+  }
+  .maps {
+    top: 61%;
+    margin-left: 11%;
+  }
+  .content__right {
+    margin-top: -282%;
+  }
+}

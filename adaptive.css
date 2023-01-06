@@ -268,3 +268,21 @@
     margin-top: -282%;
   }
 }
+@media all and (max-width: 375px) {
+  .about-me {
+    margin-top: 66%;
+  }
+  .maps {
+    top: 84%;
+    color: #878787;
+  }
+  .about-me {
+    color: #878787;
+  }
+  .content__right-list {
+    color: #878787;
+  }
+  .content__right-list > p {
+    color: #878787;
+  }
+}
